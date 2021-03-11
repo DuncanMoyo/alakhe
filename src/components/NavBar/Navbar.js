@@ -31,7 +31,7 @@ const Navbar = () => {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo">
+          <Link to="/alakhe" className="navbar-logo">
             ALAKHE <img src={ALAKHE} alt='alakheLogo' style={{width: '60px', height: '50px'}} onClick={closeMobileMenu} />
           
           </Link>
